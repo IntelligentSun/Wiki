@@ -8,3 +8,4 @@ Wiki
 * 5.MoveIt: _http://docs.ros.org/melodic/api/moveit_tutorials/html_
 * 6.Stanford Autonomous Driving Team: _http://driving.stanford.edu_
 * 7.scikit-learn（中文）: _https://sklearn.apachecn.org_
+* 8.pytorch（中文）： _https://pytorch-cn.readthedocs.io_
